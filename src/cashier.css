@@ -1,0 +1,63 @@
+#garbage,#water,#electric,#watchman,#repair,#total,#expenditure,#remaining,#file { 
+    outline: none;
+    padding-left: 15px;
+    border-radius: 5px;
+    align-items: right;
+    border-bottom-width: 2px;
+    font-size: 17px;
+    transition: all 0.3s ease;
+    float: right;
+    margin-right: 70px;
+    
+  }
+  .form-label {
+    margin: 20px 25px 35px 60px;
+    padding: 10px 0 0 0;
+    background-color: rgba(238, 237, 190, 0.336);
+    width: 50%;
+    height: 550px;
+    border-radius: 30px;
+   
+    
+  }
+  #heading{
+    background-color: rgba(6, 110, 158, 0.452);
+    color: antiquewhite;
+    height: 40px;
+    border-radius: 30px 30px 0 0;
+    margin-top: -10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #lab{
+    float: left;
+    margin-left: 80px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+  }
+  #file{
+    margin: 0 0 0 40px;
+    font-size:medium;
+  }
+  #btn{
+    margin-left: 75%;
+  }
+  #bttn{
+    border-radius: 10px 0px 10px 0;
+  }
+
+  #subm{
+    border-radius: 10px;
+    background-color: rgb(162, 138, 184);
+    color:rgb(238, 237, 237);
+    font-weight: bold;
+  }
+  #money{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        z-index: -1;
+  }

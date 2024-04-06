@@ -1,0 +1,62 @@
+#login-id{
+    background:rgba(239, 241, 241, 0.644);
+  
+    display: inline-block;
+    padding-top: 100px;
+    margin: 20px 0 0 0;
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    
+}
+#contain{
+    
+    
+    height: 400px;
+    width: 450px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 80px 0 0 480px;
+}
+#logintext{
+    border-radius: 5px;
+    font-size: 22px;
+    align-content: center;
+    /* margin: 0 0 0 40px; */
+    
+}
+#loginpass{
+    border-radius: 5px;
+    font-size: 22px;
+    align-content: center;
+    /* margin: 0 0 0 40px; */
+   
+}
+#loginbtt{
+    border-radius: 10px;
+    margin: 0px 0 0 0;
+    background: rgb(148, 128, 240);
+    color: #fff;
+}
+#loginem,#loginpas{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 0 0 0 -180px;
+}
+#tag{
+    margin: -100px 0 0 0;
+    height: 45px;
+    font-style: italic;
+    font-weight: bold;
+    background: rgba(2, 109, 158, 0.452);
+    border-radius: 5px 5px 0 0;
+    color: antiquewhite;
+}
+#loginem{
+    margin: 0 0 0 -200px;
+}
+#video-background {
+    width: 100%;
+    height: auto;
+  }
